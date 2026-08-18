@@ -1,0 +1,3 @@
+issue_id,dataset,issue,description,severity,decision
+dq-01,hour,missing date-hour records,165 expected date-hour combinations are absent across 76 dates.,medium,retain the raw data and evaluate the effect before hourly analysis
+dq-02,day and hour,zero humidity values,Humidity is recorded as zero on 2011-03-10 in one daily record and 22 hourly records.,medium,retain the original values and evaluate their effect during later analysis

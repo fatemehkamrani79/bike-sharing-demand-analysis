@@ -1,0 +1,4 @@
+demand_measure,all hourly records,complete days only,peak_hour_stable
+casual users,14,14,True
+registered users,17,17,True
+total demand,17,17,True

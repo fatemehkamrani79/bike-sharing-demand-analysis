@@ -1,0 +1,3 @@
+workingday,day_type,days_observed,total_rentals,average_daily_rentals,median_daily_rentals,casual_daily_average,registered_daily_average
+0,non_working_day,231,1000269,4330.168831168831,4459.0,1371.1341991341992,2959.034632034632
+1,working_day,500,2292410,4584.82,4582.0,606.57,3978.25

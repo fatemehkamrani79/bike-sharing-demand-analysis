@@ -1,0 +1,5 @@
+analysis_sample,record_count,date_count
+all daily records,731,731
+daily records without zero humidity,730,730
+all hourly records,17379,731
+hourly records from complete days,15720,655

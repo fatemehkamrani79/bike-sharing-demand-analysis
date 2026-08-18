@@ -1,0 +1,3 @@
+workingday,day_type,days_observed,casual_rentals,registered_rentals,total_rentals,casual_share_pct,registered_share_pct
+0,non_working_day,231,316732,683537,1000269,31.66468220048807,68.33531779951193
+1,working_day,500,303285,1989125,2292410,13.229963226473448,86.77003677352656

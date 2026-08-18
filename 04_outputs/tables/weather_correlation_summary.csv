@@ -1,0 +1,13 @@
+weather_variable,demand_variable,observations,pearson_correlation,spearman_correlation
+temp_c,cnt,731,0.627,0.622
+temp_c,casual,731,0.543,0.667
+temp_c,registered,731,0.54,0.531
+atemp_c,cnt,731,0.631,0.623
+atemp_c,casual,731,0.544,0.668
+atemp_c,registered,731,0.544,0.532
+humidity_pct,cnt,731,-0.101,-0.098
+humidity_pct,casual,731,-0.077,-0.071
+humidity_pct,registered,731,-0.091,-0.093
+windspeed_original_scale,cnt,731,-0.235,-0.217
+windspeed_original_scale,casual,731,-0.168,-0.18
+windspeed_original_scale,registered,731,-0.217,-0.203

@@ -1,0 +1,3 @@
+holiday,holiday_type,days_observed,total_rentals,average_daily_rentals,median_daily_rentals,casual_daily_average,registered_daily_average
+0,non_holiday,710,3214244,4527.104225352113,4558.0,841.7718309859155,3685.332394366197
+1,holiday,21,78435,3735.0,3351.0,1064.7142857142858,2670.285714285714

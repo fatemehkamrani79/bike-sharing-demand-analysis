@@ -1,0 +1,7 @@
+analysis_sample,demand_measure,peak_hour,peak_average_rentals
+all hourly records,total demand,17,461.45
+all hourly records,casual users,14,75.57
+all hourly records,registered users,17,387.18
+complete days only,total demand,17,488.43
+complete days only,casual users,14,80.93
+complete days only,registered users,17,408.6

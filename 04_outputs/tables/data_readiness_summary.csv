@@ -1,0 +1,3 @@
+dataset,readiness_status,reason,required_action
+day,ready with minor review,"The daily dataset passed the main integrity checks, but the zero-humidity observation on 2011-03-10 must remain documented.",Retain the original zero-humidity value and evaluate its influence during later analysis.
+hour,ready with conditions,"The hourly dataset passed the main integrity checks, but 165 date-hour records are absent across 76 dates.",Do not interpret absent hourly records as zero demand. Document the gaps and evaluate their effect before hour-level modeling.

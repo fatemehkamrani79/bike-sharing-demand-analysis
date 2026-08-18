@@ -1,0 +1,13 @@
+metric,value
+dominant user segment,registered
+dominant segment share,81.17%
+average daily demand growth,64.43%
+total demand peak hour,17:00
+casual user peak hour,14:00
+registered user peak hour,17:00
+casual share on working days,13.23%
+casual share on non-working days,31.66%
+strongest selected weather association,temp_c with casual (Spearman = 0.667)
+maximum humidity correlation change,0.0140
+maximum hourly sensitivity difference,6.97%
+all peak hours stable,True

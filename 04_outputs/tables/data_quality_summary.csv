@@ -1,0 +1,14 @@
+check_id,quality_check,dataset,status,finding
+qc-01,cell-level missing values,day and hour,pass,No cell-level missing values were found.
+qc-02,duplicate records,day and hour,pass,No duplicate rows or duplicate key values were found.
+qc-03,categorical value validity,day and hour,pass,All categorical variables contain expected codes.
+qc-04,rental count integrity,day and hour,pass,No negative counts were found and cnt equals casual plus registered.
+qc-05,date validity and coverage,day and hour,pass,All dates are valid and both datasets cover 2011-01-01 to 2012-12-31.
+qc-06,calendar consistency,day and hour,pass,"Year, month, weekday, holiday, and workingday values are consistent."
+qc-07,identifier sequence,day and hour,pass,"The instant identifier is unique, complete, and sequential."
+qc-08,hourly record completeness,hour,issue identified,165 expected date-hour records are absent across 76 dates.
+qc-09,daily-hourly demand reconciliation,day and hour,pass,Aggregated hourly rental counts exactly match the daily totals.
+qc-10,weather value ranges,day and hour,pass,All normalized weather values fall within the range of 0 to 1.
+qc-11,weather boundary values,day and hour,issue identified,Zero humidity occurs on 2011-03-10 in one daily and 22 hourly records.
+qc-12,cross-dataset calendar consistency,day and hour,pass,Calendar variables match between the daily and hourly datasets.
+qc-13,daily-hourly weather consistency,day and hour,pass,Daily weather values match mean hourly values within rounding tolerance.
